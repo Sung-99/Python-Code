@@ -1,1 +1,1 @@
-This are simple exercice in python for training
+This are simple exercise in python for training
